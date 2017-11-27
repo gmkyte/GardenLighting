@@ -1,2 +1,2 @@
-# GardenLighting
-Garden lighting using RFM69 and MySensors network.
+# Home Automation
+Home automation using RFM69 and MySensors network.
