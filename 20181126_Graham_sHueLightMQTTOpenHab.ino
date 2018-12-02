@@ -24,8 +24,8 @@ String myHueS;
 String mySatS;
 String myValS;
 
-const char* ssid = "COSMOTE-4913A2";
-const char* password = "uR4g7j3e4QYqt2SR";
+const char* ssid = "ssid";
+const char* password = "password";
 const char* mqtt_server = "192.168.16.18";
 const char* myHostName = "loungelight"; // the name of your fixture, and the base channel to listen to
 
