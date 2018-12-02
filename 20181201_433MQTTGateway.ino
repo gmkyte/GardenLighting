@@ -20,8 +20,8 @@ RCSwitch mySwitch = RCSwitch();
 
 // Network information
 
-const char* ssid = "COSMOTE-4913A2";
-const char* password = "uR4g7j3e4QYqt2SR";
+const char* ssid = "SSID";
+const char* password = "password";
 const char* mqtt_server = "192.168.16.18";
 const char* myHostName = "433Gateway"; // the name of your fixture, and the base channel to listen to
 
