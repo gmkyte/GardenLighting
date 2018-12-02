@@ -1,2 +1,2 @@
 # Home Automation
-Home automation using RFM69 and MySensors network.
+This area is dedicated to my various home automation project ideas as I develop them.
